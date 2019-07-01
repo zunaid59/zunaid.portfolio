@@ -220,7 +220,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 /* Header Menu Area css
 ============================================================================================ */
 .header_area {
-  background: #fec608;
+  background: #84e184;
 }
 
 .header_area .navbar.navbar-default {
@@ -316,7 +316,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .about_person_area .person_details h3 span {
-  color: #fec608;
+  color: #84e184;
 }
 
 .about_person_area .person_details h4 {
@@ -656,7 +656,8 @@ body, p, h1, h2, h3, h4, h5, h6 {
   left: 50%;
   width: 5px;
   margin-left: -2.5px;
-  background: rgba(254, 198, 8, 0.5);
+  /*background: rgba(254, 198, 8, 0.5);*/
+  background: #84e184;
 }
 
 .education_area .education_inner_area .education_item {
@@ -691,7 +692,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .education_area .education_inner_area .education_item:after {
   content: "";
-  background: #f7da7b;
+  background: #84e184;
   height: 4px;
   position: absolute;
   right: -78px;
@@ -726,7 +727,8 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .education_area .education_inner_area .education_item h6 {
   font-size: 14px;
-  color: #fec608;
+  /*color: #fec608;*/
+  color: #84e184;
   font-family: "Raleway", sans-serif;
   font-weight: bold;
 }
