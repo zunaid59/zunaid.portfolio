@@ -54,7 +54,8 @@
     .education_area .education_inner_area .education_item:nth-child(2) {
         margin-top: 238px;
     }
-    .portfolio_area .portfolio_list_inner{
+    /*.portfolio_area .portfolio_list_inner{*/
+    .portfolio_area .portfolio{
         max-width: 342px;
         margin: auto;
     }
