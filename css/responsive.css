@@ -35,6 +35,27 @@
         margin-right: 18px;
     }
 }
+
+@media (max-width: 991px) and (min-width: 750px){
+    .portfolio_row{
+
+        margin-left: 110px;
+    }
+}
+
+@media (max-width: 750px) and (min-width: 450px){
+    .portfolio_row{
+
+        margin-left: 70px;
+    }
+}
+
+@media (max-width: 450px) and (min-width: 350px){
+    .portfolio_row{
+
+        margin-left: 10px;
+    }
+}
 @media (max-width: 991px){
     .header_area .navbar.navbar-default .navbar-collapse .nav.navbar-nav li {
         margin-right: 18px;

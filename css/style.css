@@ -874,13 +874,13 @@ body, p, h1, h2, h3, h4, h5, h6 {
   /*border-top-right-radius: 2.5px;*/
 /*}*/
 
-/*.portfolio_area .portfolio_list_inner .portfolio_item {*/
-.portfolio_area .portfolio .portfolio_item {
+.portfolio_area .portfolio_list_inner .portfolio_item {
+/*.portfolio_area .portfolio .portfolio_item {*/
   margin-top: 40px;
 }
 
-/*.portfolio_area .portfolio_list_inner .portfolio_item .portfolio_img {*/
-.portfolio_area .portfolio .portfolio_item .portfolio_img {
+.portfolio_area .portfolio_list_inner .portfolio_item .portfolio_img {
+/*.portfolio_area .portfolio .portfolio_item .portfolio_img {*/
   /*position: relative;*/
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
@@ -911,15 +911,15 @@ body, p, h1, h2, h3, h4, h5, h6 {
   max-width: 100%;
 }
 
-/*.portfolio_area .portfolio_list_inner .portfolio_item .portfolio_title {*/
-.portfolio_area .portfolio .portfolio_item .portfolio_title {
+.portfolio_area .portfolio_list_inner .portfolio_item .portfolio_title {
+/*.portfolio_area .portfolio .portfolio_item .portfolio_title {*/
   text-align: center;
   background: #fff;
   transition: all 400ms linear 0s;
 }
 
-/*.portfolio_area .portfolio_list_inner .portfolio_item .portfolio_title h4 {*/
-.portfolio_area .portfolio .portfolio_item .portfolio_title h4 {
+.portfolio_area .portfolio_list_inner .portfolio_item .portfolio_title h4 {
+/*.portfolio_area .portfolio .portfolio_item .portfolio_title h4 {*/
   font-size: 16px;
   font-family: "Raleway", sans-serif;
   font-weight: bold;
@@ -928,33 +928,33 @@ body, p, h1, h2, h3, h4, h5, h6 {
   padding: 18px 0px 10px 0px;
 }
 
-/*.portfolio_area .portfolio_list_inner .portfolio_item .portfolio_title h5 {*/
-.portfolio_area .portfolio .portfolio_item .portfolio_title h5 {
+.portfolio_area .portfolio_list_inner .portfolio_item .portfolio_title h5 {
+/*.portfolio_area .portfolio .portfolio_item .portfolio_title h5 {*/
   font-size: 14px;
   font-family: "Raleway", sans-serif;
   color: #666666;
   padding-bottom: 18px;
 }
 
-/*.portfolio_area .portfolio_list_inner .portfolio_item:hover .portfolio_img:before {*/
-.portfolio_area .portfolio .portfolio_item:hover .portfolio_img:before {
+.portfolio_area .portfolio_list_inner .portfolio_item:hover .portfolio_img:before {
+/*.portfolio_area .portfolio .portfolio_item:hover .portfolio_img:before {*/
   -webkit-transform: scaleX(1);
   -ms-transform: scaleX(1);
   transform: scaleX(1);
 }
 
-/*.portfolio_area .portfolio_list_inner .portfolio_item:hover .portfolio_title {*/
-.portfolio_area .portfolio .portfolio_item:hover .portfolio_title {
+.portfolio_area .portfolio_list_inner .portfolio_item:hover .portfolio_title {
+/*.portfolio_area .portfolio .portfolio_item:hover .portfolio_title {*/
   background: #84e184;
 }
 
-/*.portfolio_area .portfolio_list_inner .portfolio_item:hover .portfolio_title h4 {*/
-.portfolio_area .portfolio .portfolio_item:hover .portfolio_title h4 {
+.portfolio_area .portfolio_list_inner .portfolio_item:hover .portfolio_title h4 {
+/*.portfolio_area .portfolio .portfolio_item:hover .portfolio_title h4 {*/
   color: #fff;
 }
 
-/*.portfolio_area .portfolio_list_inner .portfolio_item:hover .portfolio_title h5 {*/
-.portfolio_area .portfolio .portfolio_item:hover .portfolio_title h5 {
+.portfolio_area .portfolio_list_inner .portfolio_item:hover .portfolio_title h5 {
+/*.portfolio_area .portfolio .portfolio_item:hover .portfolio_title h5 {*/
   color: #fff;
 }
 
