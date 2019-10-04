@@ -57,7 +57,7 @@
     }
 }
 
-@media (max-width: 450px) and (min-width: 250px){
+@media (max-width: 450px) and (min-width: 350px){
     .contact_row{
 
         margin-left: -80px;
