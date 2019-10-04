@@ -56,6 +56,13 @@
         margin-left: 10px;
     }
 }
+
+@media (max-width: 450px) and (min-width: 250px){
+    .contact_row{
+
+        margin-left: -80px;
+    }
+}
 @media (max-width: 991px){
     .header_area .navbar.navbar-default .navbar-collapse .nav.navbar-nav li {
         margin-right: 18px;
